@@ -16,7 +16,6 @@
 │
 │
 │
-
-<img src="./test.svg"></img> 
-
 ```
+
+<img src="./test.svg"></img>
