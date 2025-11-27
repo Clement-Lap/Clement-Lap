@@ -17,5 +17,7 @@
 │
 │
 ```
-
-<img src="./test.png"></img>
+<div>
+    <img src="./test.png" width="45%"></img>
+    <img src="./test2.png" width="45%"></img>
+<div>
