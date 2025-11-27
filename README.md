@@ -18,4 +18,4 @@
 │
 ```
 
-<img src="./test.svg"></img>
+<img src="./test.png"></img>
