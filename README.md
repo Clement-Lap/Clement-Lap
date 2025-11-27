@@ -18,6 +18,6 @@
 │
 ```
 <div>
-    <img src="./test.png" width="45%"></img>
-    <img src="./test2.png" width="45%"></img>
+    <img src="./test.png" width="50%"></img>
+    <img src="./test2.png" width="50%"></img>
 <div>
