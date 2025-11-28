@@ -9,7 +9,7 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
 - Traveling 🌎
 
 ## My Skills
-- Front-end Web Development (<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" /></a></p>)
+- Front-end Web Development <p align="left"><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></p>
 - Back-end Web Development <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></a></p>
 - Other programming languages <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></a></p>
 
