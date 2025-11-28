@@ -11,30 +11,30 @@ I am a French student 🧑‍🎓, at IUT de Nantes (University Institute of Tec
 ## My Skills
 - Front-end Web Development :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,vue&perline=4" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,vue" />
   </p>
 - Back-end Web Development :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=4" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
   </p>
 - Other programming languages :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python" />
   </p>
 
 ### Languages I plan to learn
 
 - Front-end Web Development :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby&perline=4" />
+    <img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby" />
   </p>
 - Back-end Web Development :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask&perline=4" />
+    <img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask" />
   </p>
 - Other programming languages :
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex&perline=4" />
+    <img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" />
   </p>
 
 <!--
@@ -45,9 +45,9 @@ I am a French student 🧑‍🎓, at IUT de Nantes (University Institute of Tec
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=css,html,js,react,vue&perline=4" ></td>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=4" /></td>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python&perline=4" /></td>
+        <td valign="top"><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
+        <td valign="top"><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></td>
+        <td valign="top"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
     </tr>
 </table>
 
@@ -59,9 +59,9 @@ I am a French student 🧑‍🎓, at IUT de Nantes (University Institute of Tec
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby&perline=4" ></td>
-        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask&perline=4" /></td>
-        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex&perline=4" /></td>
+        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby" ></td>
+        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask" /></td>
+        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" /></td>
     </tr>
 </table>
 
