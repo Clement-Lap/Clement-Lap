@@ -16,9 +16,9 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <td><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></td>
-        <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
+        <td><img src="https://skillicons.dev/icons?i=css,html,js,react,vue&perline=4" ></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=4" /></td>
+        <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,python&perline=4" /></td>
     </tr>
 </table>
 
