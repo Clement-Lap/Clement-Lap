@@ -16,14 +16,24 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <th>Languages I know</th>
         <td><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
         <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></td>
         <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
     </tr>
 </table>
+
+### Languages I plan to learn
 <table>
-    <tr></tr>
+    <tr>
+        <th>Front-end Web Development</th>
+        <th>Back-end Web Development</th>
+        <th>Other programming languages</th>
+    </tr>
+    <tr>
+        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,next,nuxt" ></td>
+        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java" /></td>
+        <td><img src="https://skillicons.dev/icons?i=haskell,cobol,erlang,asm,cmake,docker,fortran" /></td>
+    </tr>
 </table>
 
 ## My Tools
