@@ -30,9 +30,9 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby" ></td>
-        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask" /></td>
-        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" /></td>
+        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby&perline=4" ></td>
+        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask&perline=4" /></td>
+        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex&perline=4" /></td>
     </tr>
 </table>
 
