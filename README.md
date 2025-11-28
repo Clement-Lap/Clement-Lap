@@ -38,16 +38,17 @@ I am a French student 🧑‍🎓, at IUT de Nantes (University Institute of Tec
   </p>
 
 ## My Tools
+
 - IDE : 
-<p align="left">
+  <p align="left">
     <img src="https://skillicons.dev/icons?i=clion,pycharm,rider,intellij" />
-</p>
+  </p>
 
 - Text Editors : 
-<p align="left">
+  <p align="left">
     <img src="https://avatars.githubusercontent.com/u/79345384?s=48&v=4" />
     <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+  </p>
 
 ## My Plans (for the future)
 - Traveling around the world, learn new cultures and meet different people. (My main destinations ideas are in the North America and in Asia).
