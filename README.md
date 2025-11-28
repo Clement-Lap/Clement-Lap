@@ -10,10 +10,16 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
 
 ## My Skills
 <table>
-    <tr><td>Front-end Web Development</td><td>Back-end Web Development</td></tr>
+    <tr>
+        <td>Front-end Web Development</td>
+        <td>Back-end Web Development</td>
+        <td>Other programming languages</td>
+    </tr>
     <tr>
         <td><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
         <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></td>
+        <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
+    </tr>
 </table>
 
 - Other programming languages <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></a></p>
