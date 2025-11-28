@@ -37,39 +37,16 @@ I am a French student 🧑‍🎓, at IUT de Nantes (University Institute of Tec
     <img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" />
   </p>
 
-<!--
-<table>
-    <tr>
-        <th>Front-end Web Development</th>
-        <th>Back-end Web Development</th>
-        <th>Other programming languages</th>
-    </tr>
-    <tr>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=nodejs,nestjs" /></td>
-        <td valign="top"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
-    </tr>
-</table>
-
-### Languages I plan to learn
-<table>
-    <tr>
-        <th>Front-end Web Development</th>
-        <th>Back-end Web Development</th>
-        <th>Other programming languages</th>
-    </tr>
-    <tr>
-        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby" ></td>
-        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask" /></td>
-        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" /></td>
-    </tr>
-</table>
-
---->
-
 ## My Tools
-- IDE : <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=clion,pycharm,rider,intellij" /></a></p>
-- Text Editors : Zed, <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a></p>
+- IDE : 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=clion,pycharm,rider,intellij" />
+</p>
+- Text Editors : 
+<p align="left">
+    <img src="https://avatars.githubusercontent.com/u/79345384?s=48&v=4" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ## My Plans (for the future)
 - Traveling around the world, learn new cultures and meet different people. (My main destinations ideas are the North America and in Asia).
