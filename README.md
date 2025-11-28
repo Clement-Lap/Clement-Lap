@@ -11,9 +11,9 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
 ## My Skills
 <table>
     <tr>
-        <td>Front-end Web Development</td>
-        <td>Back-end Web Development</td>
-        <td>Other programming languages</td>
+        <th>Front-end Web Development</th>
+        <th>Back-end Web Development</th>
+        <th>Other programming languages</th>
     </tr>
     <tr>
         <td><img src="https://skillicons.dev/icons?i=css,html,js,react,vue" ></td>
@@ -21,8 +21,9 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
         <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></td>
     </tr>
 </table>
-
-- Other programming languages <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python" /></a></p>
+<table>
+    <tr></tr>
+</table>
 
 ## My Tools
 - IDE : <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=clion,pycharm,rider,intellij" /></a></p>
