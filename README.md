@@ -22,7 +22,7 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
     </tr>
 </table>
 
-### Languages I plan to learn
+## Languages I plan to learn
 <table>
     <tr>
         <th>Front-end Web Development</th>
@@ -30,9 +30,9 @@ I am a French student 🧑‍🎓🇫🇷, at IUT de Nantes - France, studying i
         <th>Other programming languages</th>
     </tr>
     <tr>
-        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,next,nuxt" ></td>
-        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java" /></td>
-        <td><img src="https://skillicons.dev/icons?i=haskell,cobol,erlang,asm,cmake,docker,fortran" /></td>
+        <td><img src="https://skillicons.dev/icons?i=svelte,angular,astro,nextjs,nuxtjs,ruby" ></td>
+        <td><img src="https://skillicons.dev/icons?i=go,elixir,rust,php,dotnet,java,flask" /></td>
+        <td><img src="https://skillicons.dev/icons?i=haskell,bash,cmake,docker,fortran,gtk,qt,reactivex" /></td>
     </tr>
 </table>
 
